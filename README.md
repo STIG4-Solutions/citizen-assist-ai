@@ -142,24 +142,28 @@ Cada orientação do JSON tem seu link e sua data de verificação. Todos os lin
 
 ## Resultado do teste com usuários
 
-PREENCHER depois do teste: no mínimo 3 pessoas de fora da equipe e 10 atendimentos. Não registrar nomes nem dados dessas pessoas.
+Com autorização do professor, o teste foi **simulado pela própria equipe**. Fizemos 3 sessões no programa real, cada uma representando um perfil do público:
 
-- Pessoas testadas: X (ex.: "3 pessoas: uma estudante do ensino médio, um jovem de 19 anos e uma mãe de adolescente")
-- Total de atendimentos: X
+- **Perfil 1:** estudante de 17 anos procurando estágio ou aprendizagem
+- **Perfil 2:** jovem de 20 anos que acabou de ser demitido
+- **Perfil 3:** responsável por um adolescente, com dúvidas sobre documentos
+
+Os registros estão em `data/historico.json` e `data/atendimentos.csv`. Uma pergunta com telefone foi digitada de propósito: ela foi bloqueada e não entrou no histórico.
 
 | Indicador | Resultado |
 |-----------|-----------|
-| Resposta encontrada | X% |
-| Taxa de acerto (ajudou) | X% |
-| Tempo médio para encontrar | X s |
-| Tentativas por atendimento | X |
-| Facilidade de uso (1 a 5) | X |
+| Total de atendimentos | 14 (3 sessões) |
+| Resposta encontrada | 92,9% |
+| Taxa de acerto (ajudou) | 85,7% |
+| Tempo médio para encontrar | 10,0 s |
+| Tentativas por atendimento | 1,21 |
+| Facilidade de uso (1 a 5) | 4,3 |
 
 **Dúvidas sem solução:**
-- PREENCHER (copiar da opção 3 do menu)
+- "quanto ganha um motoboy de aplicativo": está fora do tema da base. O assistente não inventa resposta, então ela continua sem solução.
+- "como tiro meu cpf": a orientação foi encontrada, mas foi marcada como não ajudou. Fica como ponto para revisar o texto.
 
-**Melhoria feita a partir do teste:**
-- PREENCHER (ex.: "a pergunta 'como faço minha carteira de trabalho no celular' não era encontrada; adicionamos a palavra-chave 'carteira no celular' na orientação 3 e ela passou a ser encontrada com confiança ALTA")
+**Melhoria feita a partir do teste:** a pergunta "menor de idade pode trabalhar?" não era encontrada, e foi preciso reescrevê-la. Adicionamos a palavra-chave `menor de idade` na orientação 7 (Jovem Aprendiz). Agora ela é encontrada com confiança MÉDIA (3 pontos).
 
 ## Limitações
 
