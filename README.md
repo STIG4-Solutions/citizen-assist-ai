@@ -102,7 +102,7 @@ A pergunta, as palavras-chave e o título são normalizados com `normalizar()`: 
 - **Entradas inválidas:** letras, número fora da faixa, resposta vazia ou s/n inválido repetem a pergunta e nunca encerram o programa.
 - **Arquivos:** se `base_conhecimento.json` não existir ou estiver corrompido, o programa avisa e continua aberto. Se `historico.json` estiver corrompido, ele é renomeado para `historico.json.corrompido` e o assistente começa um histórico novo.
 - **Tentativas:** cada nova forma de escrever a mesma dúvida, ou cada alternativa aberta, conta mais uma tentativa no mesmo atendimento.
-- **Tempo:** medido com `time.time()` desde a primeira pergunta até a resposta aparecer na tela.
+- **Tempo:** medido com `time.time()` desde o momento em que a pessoa começa a digitar a pergunta até a resposta aparecer na tela.
 
 ### Indicadores
 

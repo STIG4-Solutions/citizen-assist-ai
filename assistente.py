@@ -127,6 +127,7 @@ class Assistente:
         print("\nEscreva sua dúvida com suas palavras. Ex.: 'como tiro a carteira de trabalho?'")
         print("Não digite nome, CPF, telefone ou e-mail.")
         while True:
+            inicio = time.time()  # o tempo conta desde que a pessoa começa a digitar
             pergunta = input("\nDigite sua dúvida (0 para voltar): ").strip()
             if pergunta == "0":
                 return
@@ -136,11 +137,10 @@ class Assistente:
             if contem_dado_pessoal(pergunta):
                 print(MSG_DADO_PESSOAL)  # recusada e NÃO registrada
                 continue
-            self.atender(pergunta)
+            self.atender(pergunta, inicio)
 
-    def atender(self, pergunta):
+    def atender(self, pergunta, inicio):
         """Um atendimento: pode ter várias tentativas até achar a resposta."""
-        inicio = time.time()
         tentativas = 1
         perguntas_feitas = [pergunta]
 
