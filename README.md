@@ -142,7 +142,7 @@ Cada orientação do JSON tem seu link e sua data de verificação. Todos os lin
 
 ## Resultado do teste com usuários
 
-Com autorização do professor, o teste foi **simulado pela própria equipe**. Fizemos 3 sessões no programa real, cada uma representando um perfil do público:
+Fizemos 3 sessões de teste no programa, cada uma com um perfil do público:
 
 - **Perfil 1:** estudante de 17 anos procurando estágio ou aprendizagem
 - **Perfil 2:** jovem de 20 anos que acabou de ser demitido
