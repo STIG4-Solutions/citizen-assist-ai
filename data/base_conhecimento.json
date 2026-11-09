@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF pela primeira vez",
+    "palavras_chave": [
+      "cpf",
+      "cadastro de pessoa fisica",
+      "tirar cpf",
+      "fazer cpf",
+      "inscricao no cpf"
+    ],
+    "resposta": "A inscrição no CPF é gratuita e pode ser pedida pela internet, no site gov.br. Cartórios de registro civil, Correios, Banco do Brasil e Caixa também fazem o pedido, mas cobram uma taxa de R$ 7,00. Hoje o número do CPF também é o número da nova Carteira de Identidade.",
+    "documentos": [
+      "Documento oficial de identificação com foto",
+      "Certidão de nascimento ou casamento (se o documento com foto não mostrar data de nascimento, filiação e naturalidade)"
+    ],
+    "onde": "Site gov.br (gratuito) ou cartórios, Correios, Banco do Brasil e Caixa (com taxa)",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Fazer a Carteira de Identidade Nacional (novo RG)",
+    "palavras_chave": [
+      "rg",
+      "identidade",
+      "carteira de identidade",
+      "cin",
+      "documento com foto",
+      "novo rg"
+    ],
+    "resposta": "A Carteira de Identidade Nacional (CIN) substitui o antigo RG e usa o número do CPF. A primeira via é gratuita. Ela é emitida pelo órgão de identificação do seu estado (em SP, por exemplo, no Poupatempo). Normalmente é preciso agendar o atendimento.",
+    "documentos": [
+      "Certidão de nascimento ou casamento",
+      "CPF"
+    ],
+    "onde": "Órgão de identificação do seu estado (agendamento pelo site do governo estadual)",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Ter a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "carteira digital",
+      "carteira de trabalho digital",
+      "registro em carteira"
+    ],
+    "resposta": "A Carteira de Trabalho agora é digital e o número dela é o seu CPF. Não precisa ir a nenhum lugar: basta baixar o app Carteira de Trabalho Digital (ou acessar pelo site) e entrar com sua conta gov.br. Lá aparecem seus contratos de trabalho.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou site gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": [
+      "gov br",
+      "conta gov",
+      "conta do governo",
+      "login gov",
+      "senha gov"
+    ],
+    "resposta": "A conta gov.br é o login único para usar os serviços digitais do governo federal (como a Carteira de Trabalho Digital). Você cria de graça no app gov.br ou no site, usando seu CPF. A conta tem níveis (bronze, prata e ouro): alguns serviços pedem nível prata ou ouro, que você consegue, por exemplo, com reconhecimento facial no app.",
+    "documentos": [
+      "CPF",
+      "Celular ou computador com internet"
+    ],
+    "onde": "Aplicativo gov.br ou site gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/conta-gov-br",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "votar",
+      "eleitor",
+      "titulo net"
+    ],
+    "resposta": "O voto é obrigatório dos 18 aos 70 anos e opcional para quem tem 16 ou 17 anos. O primeiro título pode ser pedido pela internet, no autoatendimento do TSE (Título Net), enviando fotos dos documentos e uma selfie segurando o documento, ou no cartório eleitoral. A biometria é coletada depois, de forma presencial. Perto das eleições o cadastro fica fechado por alguns meses.",
+    "documentos": [
+      "Documento oficial de identificação",
+      "Comprovante de residência",
+      "Homens no ano em que completam 19 anos: comprovante de quitação com o serviço militar"
+    ],
+    "onde": "Autoatendimento do TSE (Título Net) ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/titulo-eleitoral-faq",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento",
+      "alistamento militar",
+      "servico militar",
+      "exercito",
+      "reservista"
+    ],
+    "resposta": "O alistamento militar é obrigatório para homens no ano em que completam 18 anos, de 1º de janeiro a 30 de junho. Pode ser feito pela internet, no site oficial do alistamento, entrando com a conta gov.br, ou na Junta de Serviço Militar da sua cidade. Quem perde o prazo precisa ir à Junta e pode pagar multa. Para mulheres o alistamento é voluntário.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Comprovante de residência"
+    ],
+    "onde": "Site oficial do alistamento militar ou Junta de Serviço Militar",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Ser Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "menor aprendiz",
+      "aprendizagem",
+      "primeiro emprego"
+    ],
+    "resposta": "Jovem Aprendiz é um contrato de trabalho para quem tem de 14 a 24 anos (pessoas com deficiência não têm idade máxima). Você trabalha numa empresa e faz um curso de aprendizagem ao mesmo tempo. Tem carteira assinada, salário mínimo por hora, férias, 13º e vale-transporte. O contrato dura no máximo 2 anos. Quem ainda não terminou a escola precisa estar matriculado e frequentando as aulas.",
+    "documentos": [
+      "CPF",
+      "Documento com foto",
+      "Comprovante de matrícula escolar (se ainda estiver estudando)"
+    ],
+    "onde": "Empresas e entidades de formação (como as do Sistema S); vagas também aparecem no app Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Regras do estágio",
+    "palavras_chave": [
+      "estagio",
+      "estagiario",
+      "bolsa estagio",
+      "lei do estagio",
+      "horas de estagio"
+    ],
+    "resposta": "Estágio é para estudantes matriculados e não é emprego com carteira assinada. Para ensino médio e faculdade, a jornada máxima é de 6 horas por dia e 30 por semana. No estágio não obrigatório, a empresa deve pagar bolsa e auxílio-transporte. Na mesma empresa o estágio dura no máximo 2 anos, e após 1 ano você tem direito a 30 dias de recesso.",
+    "documentos": [
+      "Comprovante de matrícula",
+      "Termo de compromisso assinado por você, pela empresa e pela escola"
+    ],
+    "onde": "Escola ou faculdade (setor de estágios) e agentes de integração",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 9,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Procurar vagas de emprego no Sine",
+    "palavras_chave": [
+      "vaga",
+      "vagas",
+      "sine",
+      "procurar emprego",
+      "arrumar emprego",
+      "curriculo"
+    ],
+    "resposta": "O Sine é o serviço público e gratuito de intermediação de emprego. Você pode ver as vagas no app Carteira de Trabalho Digital, na área 'Vagas de emprego' (depois de atualizar seus dados profissionais), ou ir a uma unidade do Sine da sua cidade. Desconfie de quem cobra para conseguir emprego: o serviço público é gratuito.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br (para usar o app)"
+    ],
+    "onde": "App Carteira de Trabalho Digital ou unidade do Sine da sua cidade",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 10,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Direitos de quem trabalha com carteira assinada",
+    "palavras_chave": [
+      "direitos",
+      "carteira assinada",
+      "clt",
+      "decimo terceiro",
+      "ferias",
+      "fgts"
+    ],
+    "resposta": "Com carteira assinada (CLT) você tem direito, entre outros, a: salário de pelo menos um salário mínimo, jornada de até 8 horas por dia e 44 por semana, 13º salário, férias de 30 dias com um terço a mais depois de 12 meses, depósito do FGTS pela empresa e contribuição ao INSS.",
+    "documentos": [],
+    "onde": "Dúvidas ou denúncias: Superintendência Regional do Trabalho ou canais do Ministério do Trabalho",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 11,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Pedir o seguro-desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "fui demitido",
+      "demissao",
+      "desempregado",
+      "mandado embora"
+    ],
+    "resposta": "Quem foi demitido sem justa causa pode ter direito ao seguro-desemprego. No primeiro pedido, é preciso ter trabalhado com carteira assinada por pelo menos 12 meses nos últimos 18 meses. O pedido é feito do 7º ao 120º dia depois da demissão, pelo app Carteira de Trabalho Digital ou pelo site gov.br.",
+    "documentos": [
+      "CPF",
+      "Requerimento do seguro-desemprego entregue pela empresa",
+      "Conta gov.br"
+    ],
+    "onde": "App Carteira de Trabalho Digital, site gov.br ou unidade do Sine",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/seguro-desemprego/seguro-desemprego-formal",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 12,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Abrir um MEI (Microempreendedor Individual)",
+    "palavras_chave": [
+      "mei",
+      "microempreendedor",
+      "cnpj",
+      "abrir empresa",
+      "trabalhar por conta"
+    ],
+    "resposta": "O MEI é para quem quer trabalhar por conta própria de forma legalizada. A abertura é gratuita e feita pela internet, no Portal do Empreendedor, com a conta gov.br. Depois, você paga um valor fixo por mês (DAS). Existe limite de faturamento por ano e nem toda atividade é permitida: confira as regras atuais no portal.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br",
+      "Título de eleitor ou recibo da declaração do Imposto de Renda (se tiver)"
+    ],
+    "onde": "Portal do Empreendedor (gov.br)",
+    "fonte": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 13,
+    "categoria": "Estudos e Qualificação",
+    "titulo": "Terminar os estudos com o Encceja",
+    "palavras_chave": [
+      "encceja",
+      "terminar os estudos",
+      "diploma",
+      "ensino medio",
+      "supletivo",
+      "certificado escolar"
+    ],
+    "resposta": "O Encceja é uma prova gratuita do Inep para quem não terminou a escola na idade certa. Com ela você pode conseguir o certificado do ensino fundamental (idade mínima 15 anos) ou do ensino médio (idade mínima 18 anos). A inscrição é feita pela internet, no período que o Inep divulga a cada ano.",
+    "documentos": [
+      "CPF",
+      "Documento com foto (no dia da prova)"
+    ],
+    "onde": "Página do Encceja no site do Inep (gov.br)",
+    "fonte": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/encceja",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 14,
+    "categoria": "Estudos e Qualificação",
+    "titulo": "Fazer cursos online gratuitos com certificado",
+    "palavras_chave": [
+      "curso",
+      "cursos gratuitos",
+      "curso gratis",
+      "curso online",
+      "qualificacao",
+      "escola virtual"
+    ],
+    "resposta": "A Escola Virtual de Governo (EV.G) oferece cursos online gratuitos, com certificado, em temas como informática, finanças e atendimento. Basta entrar com a conta gov.br e se inscrever. Os cursos são feitos no seu ritmo.",
+    "documentos": [
+      "Conta gov.br"
+    ],
+    "onde": "Site da Escola Virtual de Governo",
+    "fonte": "https://www.escolavirtual.gov.br",
+    "verificado_em": "2026-11-09"
+  }
+]
