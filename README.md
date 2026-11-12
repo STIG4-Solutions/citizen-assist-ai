@@ -12,7 +12,7 @@ GS 2026.2 — Pensamento Computacional e Automação com Python (1CC)
 | Giovanni Merlotti | RM573721 |
 | Sergio Augusto Amaral | RM570184 |
 
-**Vídeo técnico (YouTube, não listado):** COLE_O_LINK_AQUI
+**Vídeo técnico (YouTube, não listado):** https://youtu.be/Z5tAGHjKOAI
 
 ## Público e problema
 
